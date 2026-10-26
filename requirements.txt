@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+lightgbm
+shap
+joblib
+matplotlib
+seaborn
+pyarrow
+openai
+Pillow
